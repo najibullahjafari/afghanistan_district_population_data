@@ -4,10 +4,7 @@ This repository contains a comprehensive dataset of Afghanistan's administrative
 ## Dataset Overview
 Format: CSV
 
-Size: [File size in KB/MB]
-
-Rows: [Number of rows]
-
+Size: 255KB
 Columns: 5
 
 Years Covered: 1383-1389 (Solar Hijri)
